@@ -1,0 +1,40 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Defining a population}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Features of a Population}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Individual Features}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Subset Features}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Whole population Features}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Abstraction of a Population}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Importance of Dynamics of a Population and how to show understand them}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Field Work}{subsection.1.4}% 9
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Mathematical Models}{subsection.1.4}% 10
+\BOOKMARK [3][-]{subsubsection.1.4.3}{Simulations}{subsection.1.4}% 11
+\BOOKMARK [1][-]{section.2}{General Overview of Simulations used}{}% 12
+\BOOKMARK [2][-]{subsection.2.1}{General assumptions made on all simulations in this paper}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.2}{Simulations Technical}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Single Populations}{}% 15
+\BOOKMARK [2][-]{subsection.3.1}{Density Independent Models}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Discrete Populations}{subsection.3.1}% 17
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Continuous Populations}{subsection.3.1}% 18
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Common trends in Density Independent Models}{subsection.3.1}% 19
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Age Structures}{subsection.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.2}{Density Dependent Models}{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Logistic models}{subsection.3.2}% 22
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Continuous Time Logistic models}{subsection.3.2}% 23
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Discrete Time Logistic models}{subsection.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.3}{Simulation of a Single Population}{section.3}% 25
+\BOOKMARK [1][-]{section.4}{Multi population models}{}% 26
+\BOOKMARK [2][-]{subsection.4.1}{Competition}{section.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Competition for Food}{subsection.4.1}% 28
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Simulation Of Competition}{subsection.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.2}{Predator-Prey}{section.4}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Lotka-Volterra model}{subsection.4.2}% 31
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Adding Density Dependence}{subsection.4.2}% 32
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Functional Response}{subsection.4.2}% 33
+\BOOKMARK [2][-]{subsection.4.3}{Host-Parasitiod}{section.4}% 34
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Nicholson-Bailey model}{subsection.4.3}% 35
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Stabilizing Features}{subsection.4.3}% 36
+\BOOKMARK [1][-]{section.5}{Disease in a population}{}% 37
+\BOOKMARK [2][-]{subsection.5.1}{Epidemic models}{section.5}% 38
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 39
+\BOOKMARK [1][-]{section.6}{References}{}% 40

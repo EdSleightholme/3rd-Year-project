@@ -1,0 +1,36 @@
+\begin{thebibliography}{}
+
+\bibitem[Gause, 1935]{GAUSE44}
+Gause, G.~F. (1935).
+\newblock Experimental demonstration of volterra{\textquoteright}s periodic
+  oscillations in the numbers of animals.
+\newblock {\em Journal of Experimental Biology}, 12(1):44--48.
+
+\bibitem[Kermack and McKendrick, 1927]{Kermack700}
+Kermack, W.~O. and McKendrick, A.~G. (1927).
+\newblock A contribution to the mathematical theory of epidemics.
+\newblock {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 115(772):700--721.
+
+\bibitem[Leslie, 1945]{leslie}
+Leslie, P.~H. (1945).
+\newblock On the use of matrices in certain population mathematics.
+\newblock {\em Biometrika}, 33(3):183--212.
+
+\bibitem[Raymond~Pearl, 1940]{Peral}
+Raymond~Pearl, Lowell J.~Reed, J. F.~K. (1940).
+\newblock The logistic curve and the census count of 1940.
+\newblock
+  \url{http://science.sciencemag.org.ueaezproxy.uea.ac.uk:2048/content/sci/92/2395/486.full.pdf}.
+
+\bibitem[Various, 2018a]{pygame}
+Various (2018a).
+\newblock Pygames website.
+\newblock \url{https://www.pygame.org/wiki/about}.
+
+\bibitem[Various, 2018b]{python}
+Various (2018b).
+\newblock Pythons website.
+\newblock \url{https://www.python.org}.
+
+\end{thebibliography}
